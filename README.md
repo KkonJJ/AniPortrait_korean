@@ -1,3 +1,27 @@
+
+# Fine-Tuning Wav2Vec2-Base for Korean Speech Recognition
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model%20Card-orange)](https://huggingface.co/Kkonjeong/wav2vec2-base-korean/blob/main/README.md)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rVhqR22zrlSWXGbrpux3i-dQlR8uqSc4)
+
+This section explains how to download and set up the Wav2Vec2 model for Korean speech recognition.
+
+## Download and Setup Wav2Vec2 Model
+
+1. Clone the repository and navigate to the project directory:
+```bash
+git clone https://huggingface.co/Kkonjeong/wav2vec2-base-korean
+cd wav2vec2-base-korean
+```
+
+2. Conclusition
+same video output with wav2vec2-base, none of changeable with original.
+
+
+
+
+
+
 # AniPortrait
 
 **AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations**
